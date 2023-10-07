@@ -3,12 +3,17 @@
 AIM 1:
 Write a program to print hello world
 
+
+
 THEORY:
 This simple C++ program demonstrates how to print "Hello World" to the console.
 In C++, the `iostream` library is used to handle input and output operations. The `cout` object, part of the `iostream` library, is used to print data to the console. To print "Hello World," we use the `<<` operator to insert the string "Hello World" into the `cout` stream, and then we flush the stream to display the text on the console.
 
 
+
+
 ALGORITHM:
+
 1.#include : This line includes the Input/Output Stream library, which provides functions like cout and endl for input and output operations.
 
 2.int main() { ... }: This is the main function of your C++ program. It is the entry point of your program, and execution begins here.
